@@ -1,7 +1,2 @@
-hi
-hello
-hurray
-hey
-hu
-hmm
-ok
+print("Hello")
+print("hurray")
